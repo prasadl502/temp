@@ -1,0 +1,29 @@
+{
+  "name": "kong",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@react-icons/all-files": "^4.1.0",
+    "axios": "^1.6.3",
+    "body-parser": "^1.20.2",
+    "child_process": "^1.0.2",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "fs": "^0.0.1-security",
+    "https": "^1.0.0",
+    "nodemon": "^3.0.2",
+    "react-icons": "^4.10.1",
+    "vite-plugin-react-icons": "^0.2.0"
+  },
+  "devDependencies": {
+    "wrangler": "^3.26.0"
+  }
+}
